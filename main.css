@@ -1,0 +1,10 @@
+.card{margin: 30px auto;
+      border: 1px solid skyblue;
+      color: black ;
+      background-color: skyblue;
+      width: 30%;
+      padding: 30px;
+      display: flex;
+      justify-content: space-around;
+      border-bottom: 4px solid blue ;
+      text-align: center;}
